@@ -22,10 +22,9 @@ A feature-rich, multi-source music bot for Discord that supports both prefix and
 ### Installation
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/discord-music-bot.git
-   cd discord-music-bot
-```
+```bash
+git clone https://github.com/yourusername/discord-music-bot.git
+cd discord-music-bot```
 
 2. **Install Dependencies**
 
