@@ -1,0 +1,41 @@
+# Discord Music Bot
+
+A feature-rich, multi-source music bot for Discord that supports both prefix and slash commands using Discord.js v14 and discord-player.
+
+## Features
+
+- **Multi-Source Streaming:** Play music from YouTube, Spotify, SoundCloud, Audiomack, and more.
+- **Dual Command System:** Use traditional prefix commands (e.g., `!play`) or modern slash commands (e.g., `/play`).
+- **Robust Queue System:** Manage playlists and track orders effortlessly.
+- **24/7 Operation:** Maintain a persistent connection so your music never stops.
+- **Modular Architecture:** Clean separation of commands, events, and handlers for easy maintenance and scalability.
+- **Customizable Extractors:** Enable or disable music sources via environment variables.
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) v16.9.0 or higher
+- A [Discord Bot Token](https://discord.com/developers/applications)
+- API credentials for Spotify, SoundCloud, Audiomack, YouTube (if you plan to use these sources)
+
+### Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/discord-music-bot.git
+   cd discord-music-bot
+
+2. **Install Dependencies**
+
+```bash
+npm install
+```
+3. **Setup the .env file**
+
+
+4. **Start the Bot**
+
+```bash
+npm start
+```
